@@ -22,7 +22,6 @@ function jugarJuego() {
             alert("Ya has adivinado esa palabra. Intenta con otra.");
             continue;
         }
-
         palabrasAdivinadas.push(intentosUsuario);
         intentos++;
 
